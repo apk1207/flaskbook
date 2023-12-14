@@ -1,0 +1,10 @@
+{
+    "flake8.args": [
+        "--max-line-length=88"
+    ],
+    "black-py.useIntegratedTerminal": false,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+    }
+}
